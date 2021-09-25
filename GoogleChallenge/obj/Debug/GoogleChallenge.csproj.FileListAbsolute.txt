@@ -1,0 +1,7 @@
+C:\Users\forem\Desktop\Google Challenge\GoogleChallenge\GoogleChallenge\bin\Debug\GoogleChallenge.exe.config
+C:\Users\forem\Desktop\Google Challenge\GoogleChallenge\GoogleChallenge\bin\Debug\GoogleChallenge.exe
+C:\Users\forem\Desktop\Google Challenge\GoogleChallenge\GoogleChallenge\bin\Debug\GoogleChallenge.pdb
+C:\Users\forem\Desktop\Google Challenge\GoogleChallenge\GoogleChallenge\obj\Debug\GoogleChallenge.csproj.AssemblyReference.cache
+C:\Users\forem\Desktop\Google Challenge\GoogleChallenge\GoogleChallenge\obj\Debug\GoogleChallenge.csproj.CoreCompileInputs.cache
+C:\Users\forem\Desktop\Google Challenge\GoogleChallenge\GoogleChallenge\obj\Debug\GoogleChallenge.exe
+C:\Users\forem\Desktop\Google Challenge\GoogleChallenge\GoogleChallenge\obj\Debug\GoogleChallenge.pdb
